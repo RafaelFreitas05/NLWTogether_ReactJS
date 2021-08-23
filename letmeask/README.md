@@ -1,7 +1,7 @@
 # Letmeask NLW Together - React JS
 
 
-### Projeto desenvolvido no evento Next Level Week Together da Rocketseat. Consiste de uma aplicação capaz de criar salas utilizando o autenticador do Google, "ouvir" perguntas de usuários e acessar salas criadas previamente. Além disso, possui funções de administrador como: excluir uma perguntar, marcar como destaque e marcar como respondida.<hr>
+### Projeto desenvolvido no evento Next Level Week Together da Rocketseat. Consiste de uma aplicação capaz de criar salas utilizando o autenticador do Google, "ouvir" perguntas de usuários e acessar salas criadas previamente. Além disso, possui funções de administrador como: excluir uma perguntar, marcar como destaque e marcar como respondida.
 
 # Tecnologias
 - [React](https://pt-br.reactjs.org/)
@@ -9,7 +9,7 @@
 
 # Como executar o projeto
 
-## Configurando o Firebase <hr>
+## Configurando o Firebase
 ### Para executar o projeto, inicialmente é necessário configurar o firebase. 
 
 ### - Faça o login no - [Firebase](https://firebase.google.com/), no menu superior clique em "ir para console", adicionar projeto (nome da escolha do usuário), desative o google analitcs e clique em criar projeto.
@@ -31,7 +31,7 @@ NEXT_PUBLIC_FIREBASE_APP_ID=
 NODE_ENV=
 ```
 
-## Configurando o Realtime Database<hr>
+## Configurando o Realtime Database
 
 ### No menu esquerdo, clique em Realtime database e na aba "regras" copie e cole o seguinte código:
 
@@ -58,7 +58,7 @@ NODE_ENV=
 }
 ```
 
-## Executando o projeto <hr>
+## Executando o projeto
 
 ### Após finalizado todas as configurações execute o seguinte comando:
 
